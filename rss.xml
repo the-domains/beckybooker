@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[beckybooker]]></title>
         <description><![CDATA[beckybooker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/beckybooker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 21:42:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 22:33:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/beckybooker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62033566-d72f-4fe5-9a73-15063bfcd274.jpg" alt="" title="">]]></description>
-            <link>undefinedf3675042-61c8-446f-ba10-9882c03282d3/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ef8787dfbfe13acaf9c3f569e27e7820c8dec22.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/beckybooker/f3675042-61c8-446f-ba10-9882c03282d3/index.html</link>
             <guid isPermaLink="false">f3675042-61c8-446f-ba10-9882c03282d3</guid>
-            <pubDate>Thu, 04 Feb 2016 21:42:01 GMT</pubDate>
+            <pubDate>Fri, 05 Feb 2016 22:32:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
